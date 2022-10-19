@@ -1,6 +1,4 @@
 ### Hi there 👋, my name is deivid
-#### but you can call me storm
-![but you can call me storm](https://scontent.fagt1-1.fna.fbcdn.net/v/t1.6435-9/95630587_1551396965012598_6600939519304794112_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=19026a&_nc_eui2=AeEj0NjAhy17C64fEkQuoSU2X-Lb-2WHkuZf4tv7ZYeS5vJh8mEty7r59EE39KpCiNaFzGAxbLNyGKU3opbMb15R&_nc_ohc=4VyDrNtj5o4AX_IKuc2&_nc_ht=scontent.fagt1-1.fna&oh=ab02ad8e704fc4f30608903d93303fe2&oe=60F212BA)
 
 I'm 20 years old and I'm enthusiastic about the most diverse areas of technology. CEO of Insanity Security Lab
 
@@ -19,9 +17,7 @@ Skills: PHP/ NODE / PYTHON / HTML / CSS/ PENTEST
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=srst0rm&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=srst0rm)  
 
-![GitHub metrics](https://metrics.lecoq.io/srst0rm)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=srst0rm)  
 
