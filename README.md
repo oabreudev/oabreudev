@@ -1,24 +1,70 @@
-### Hi there 👋, my name is deivid
+# 👋 Olá, eu sou Deivid Abreu
 
-I'm 20 years old and I'm enthusiastic about the most diverse areas of technology. CEO of Insanity Security Lab
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deivid-abreu)
+[![GitHub followers](https://img.shields.io/github/followers/oabreudev?style=for-the-badge&logo=github)](https://github.com/oabreudev?tab=followers)
 
-Skills: PHP/ NODE / PYTHON / HTML / CSS/ PENTEST
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on INSANITY SECURITY LAB 
+Diretor de Tecnologia & Especialista em Segurança Digital com experiência em desenvolvimento backend e liderança técnica. Apaixonado por inovação e construção de soluções escaláveis e seguras. Atualmente em São Miguel do Iguaçu, PR 🇧🇷
 
+- 🎯 **Diretor de Tecnologia** na GrifoHub
+- 🌱 Cursando **Ciência de Dados** na Descomplica Faculdade Digital
+- 💼 Fundador da **Nexus Media**
+- 🛡️ Participante ativo em programas de Bug Bounty
+- 🤖 Especialista em Arquitetura de Sistemas e Integração com IA
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/srst0rm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://scontent.fagt1-1.fna.fbcdn.net/v/t1.6435-9/95630587_1551396965012598_6600939519304794112_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=19026a&_nc_eui2=AeEj0NjAhy17C64fEkQuoSU2X-Lb-2WHkuZf4tv7ZYeS5vJh8mEty7r59EE39KpCiNaFzGAxbLNyGKU3opbMb15R&_nc_ohc=4VyDrNtj5o4AX_IKuc2&_nc_ht=scontent.fagt1-1.fna&oh=ab02ad8e704fc4f30608903d93303fe2&oe=60F212BA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Srst0rm)  
+## 💻 Tecnologias
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### Desenvolvimento Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=srst0rm)](https://github.com/ryo-ma/github-profile-trophy)
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srst0rm)](https://github.com/anuraghazra/github-readme-stats)
+### Segurança & DevOps
+![Testes de Penetração](https://img.shields.io/badge/Testes_de_Penetração-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Segurança Mobile](https://img.shields.io/badge/Segurança_Mobile-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-1572B6?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=srst0rm&show_icons=true&count_private=true)  
+### Liderança & Gestão
+![Gestão de Projetos](https://img.shields.io/badge/Gestão_de_Projetos-FF2D20?style=for-the-badge&logo=apache&logoColor=white)
+![Arquitetura de Software](https://img.shields.io/badge/Arquitetura-181717?style=for-the-badge&logo=github&logoColor=white)
+![Integração IA](https://img.shields.io/badge/Integração_IA-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+## 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oabreudev&show_icons=true&theme=dark&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oabreudev&theme=dark&locale=pt-br" alt="GitHub Streak" />
+</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=srst0rm)  
+## 🏆 Projetos em Destaque
 
-![Profile views](https://gpvc.arturio.dev/srst0rm)  
+- **Liderança Técnica**: Direção e desenvolvimento de estratégias tecnológicas na GrifoHub
+- **Arquitetura de Sistemas**: Design e implementação de soluções escaláveis
+- **Inovação em Segurança**: Pesquisa e desenvolvimento em segurança mobile e web
+- **Automação e IA**: Integração de soluções inteligentes em processos empresariais
+
+## 💡 Áreas de Interesse
+
+- Liderança Técnica
+- Arquitetura de Software
+- Segurança Digital
+- Inteligência Artificial
+- Transformação Digital
+
+## 📫 Contato
+
+- **E-mail**: [stormdev@gmail.com](mailto:stormdev6@gmail.com)
+- **LinkedIn**: [Deivid Abreu](https://www.linkedin.com/in/deivid-abreu)
+- **Localização**: São Miguel do Iguaçu, PR
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oabreudev&color=blue&style=flat-square&locale=pt-br" alt="Visualizações do perfil" />
+</p>
