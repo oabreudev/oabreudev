@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre Mim
 
-Diretor de Tecnologia & Especialista em Segurança Digital com experiência em desenvolvimento backend e liderança técnica. Apaixonado por inovação e construção de soluções escaláveis e seguras. Atualmente em São Miguel do Iguaçu, PR 🇧🇷
+Diretor de Tecnologia & Especialista em Segurança Digital com experiência em desenvolvimento backend e liderança técnica. Apaixonado por inovação e construção de soluções escaláveis e seguras.
 
 - 🎯 **Diretor de Tecnologia** na GrifoHub
 - 🌱 Cursando **Ciência de Dados** na Descomplica Faculdade Digital
